@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when working with nested routes in React Router v6. The issue involves unexpected behavior during navigation between nested routes, potentially leading to incorrect rendering or navigation failures. The bug.js file contains the buggy code, while bugSolution.js provides a corrected version with explanations.
